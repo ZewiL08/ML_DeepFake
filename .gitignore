@@ -1,0 +1,7 @@
+project_data
+test.txt
+train.txt
+val.txt
+*.zip
+*.py
+
